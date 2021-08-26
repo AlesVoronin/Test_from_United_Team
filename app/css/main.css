@@ -234,8 +234,8 @@ body {
   height: 6rem;
   border: none;
   cursor: pointer;
-  font-family: "Open Sans", sans-serif;
-  font-size: 30px;
+  font-family: "Bauhaus 93", sans-serif;
+  font-size: 35px;
   border-radius: 50%;
 }
 .modal-form .submit-button:hover {
